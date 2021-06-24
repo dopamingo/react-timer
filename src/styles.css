@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(41, 40, 46);
+	background-color: rgb(33, 34, 39);
 	font-family: arial;
 }
 .container {	
@@ -26,8 +26,8 @@ input {
   }
 h1 {
 	color: #ffffff;
-	font-size: 9vw;
-	line-height: 8.8vw;
+	font-size: 8vw;
+	line-height: 8vw;
 }
 .title {
 	font-size: 3vw;
@@ -36,8 +36,8 @@ h1 {
 }
 .link {
 	font-size: 2.5vw;
-	margin-top: 2vw;
-	color: rgba(255, 255, 255, 0.3);
+	margin-top: 2.5vw;
+	color: rgba(255, 255, 255, 0.4);
 }
 a {
 	text-decoration-line: none;

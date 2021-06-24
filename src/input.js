@@ -16,7 +16,7 @@ class Input extends Component {
 	render() {
 	  return (
 		<div class="container">
-			<h2 class="title">Enter Your Time!</h2>
+			{/* <h2 class="title">Enter Your Time!</h2> */}
 			<div>
 				<input maxLength="2" placeholder = "mm" onChange = {this.mmChange} />
 				<span class="colon">:</span>
